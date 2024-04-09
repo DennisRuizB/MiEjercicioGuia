@@ -1,4 +1,4 @@
 # Mi Ejercicio Guia
 
-Version con conexion y desconexion
-Version Con Exclusion Mutua
+  Version con conexion y desconexion \n
+  Version Con Exclusion Mutua
